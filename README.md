@@ -1,4 +1,4 @@
-# atat-switch
+# AT-AT Switch
 Open source accessibility switch based on mechanical keyboard switches
 
 ![ATAT Switch V02 img0](https://github.com/musghz/atat-switch/blob/main/media/atat_round_0.jpg)
