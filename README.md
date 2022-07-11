@@ -21,9 +21,9 @@ Open source accessibility switch based on mechanical keyboard switches
 
 ![ATAT Switch V03 img4](https://github.com/musghz/atat-switch/blob/main/media/atat_plain_4.jpg)
 
-![ATAT Switch V02 img6](https://github.com/musghz/atat-switch/blob/main/media/atat_round_6.jpg)
+![ATAT Switch V02 img6](https://github.com/musghz/atat-switch/blob/main/media/atat_round_6.png)
 
-![ATAT Switch V03 img6](https://github.com/musghz/atat-switch/blob/main/media/atat_plain_6.jpg)
+![ATAT Switch V03 img6](https://github.com/musghz/atat-switch/blob/main/media/atat_plain_6.png)
 
 
 
@@ -33,7 +33,9 @@ Plugs in to any device or toy that uses a 3.5 mm audio jack. Uses a Cherry-MX sw
 
 You can use these design files to build your own. 
 
-You can also get it assembled from a third party here: 
+Here is a third-party that can assemble it for you: 
+- [Version 02](https://nautilus-technologies.myshopify.com/products/at-at-accessibility-switch-round-version)
+- [Version 03](https://nautilus-technologies.myshopify.com/products/at-at-accessibility-switch-chiclet-version)
 
 **Features:**
 
