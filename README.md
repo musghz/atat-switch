@@ -61,3 +61,7 @@ Here is a third-party that can assemble it for you:
 - Cherry-MX switch key cap
 - Mono audio jack
 - Male-male audio cable
+
+**License:**
+
+This project is open source. Released under [Creative Commons Share-alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Please review the LICENSE.MD file for details.
